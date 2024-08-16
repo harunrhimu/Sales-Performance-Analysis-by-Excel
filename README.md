@@ -1,5 +1,5 @@
-# Sales Performance Analysis Dashboard by `Microsoft Excel`
-
+# Sales Performance Analysis Full Dashboard by `Microsoft Excel` Visualized in GitHub
+![Dashboard](https://github.com/harunrhimu/Sales-Performance-Analysis-by-Excel/blob/main/Dashboard.jpg)
 ## Sales Performance Analysis Dashboard
 
 ### Superstore Sales Objective:
